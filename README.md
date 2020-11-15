@@ -24,7 +24,7 @@ This is a progressive web application that allows users to add deposits and with
 This application is covered under the MIT License.
 
 ## Credits
-This project was prompted by a homework assignment through Trilogy Education Services. Some of code used in this application was provided as part of the assignment.
+This project was prompted by a homework assignment through Trilogy Education Services. Some of the code used in this application was provided as part of the assignment.
 
 ## Questions
 If you have further questions, please feel free to reach me at nckoller@gmail.com.
